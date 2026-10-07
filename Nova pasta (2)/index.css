@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+
+#card{
+    background-color: azure;
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 100px;
+}
